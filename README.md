@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@muratkaragozgil](https://medium.com/@muratkaragozgil)
 
-- 💬 Ask me about **Java, Spring, Mongo, Hazelcast, Microservices,**
+- 💬 Ask me about **Java, Spring, Mongo, Hazelcast, Microservices**
 
 - 📫 How to reach me **m.karagozgil@gmail.com**
 
